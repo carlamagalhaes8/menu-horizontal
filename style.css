@@ -10,10 +10,11 @@
     display: block;
     color: white;
     padding: 10px 20px;
-    background-color: blue;
+    background-image: url('fundo-horizontal.png');
     text-decoration: none;
+    border: 1px solid lightblue;
 }
 
 #area-links ul li a:hover {
-    background-color: lightblue;
+    background: lightblue;
 }
