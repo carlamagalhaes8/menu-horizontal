@@ -1,0 +1,19 @@
+#area-links ul {
+    display: flex;
+}
+
+#area-links ul li {
+    list-style: none;
+}
+
+#area-links ul li a {
+    display: block;
+    color: white;
+    padding: 10px 20px;
+    background-color: blue;
+    text-decoration: none;
+}
+
+#area-links ul li a:hover {
+    background-color: lightblue;
+}
